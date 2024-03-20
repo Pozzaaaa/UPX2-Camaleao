@@ -1,6 +1,9 @@
 # UPX2-Camaleao
-Repositório para o projeto de UPX2- Cadastro de Hortas e Voluntarios
 > [!IMPORTANT]
+Integrantes
+Julia Rodrigues Pozza- 236657- jujubs.pozza@gmail.com
+Repositório para o projeto de UPX2- Cadastro de Hortas e Voluntarios
+
 ### Objetivos Gerais:
 
 Desenvolver um sistema de cadastro e gerenciamento de voluntários e hortas comunitárias, que facilite esse processo de conexão entre interessados e oportunidades, trazendo mais modernidade e facilidade para os voluntários e gestores das hortas.
@@ -40,4 +43,6 @@ Desenvolver um sistema de cadastro e gerenciamento de voluntários e hortas comu
 - Cadastro
 - Gerenciamento de dados
 - Escolha de hortas disponíveis
-- 
+
+![image](https://github.com/Pozzaaaa/UPX2-Camaleao/assets/105672389/86e2e131-cba0-4a09-89bf-38ac73db52ce)
+
