@@ -1,8 +1,11 @@
 # UPX2-Camaleao
 > [!IMPORTANT]
-Integrantes
+#Integrantes
 Julia Rodrigues Pozza- 236657- jujubs.pozza@gmail.com
-Repositório para o projeto de UPX2- Cadastro de Hortas e Voluntarios
+Guilherme Henrique Leite de Paula - 200595- gui.leitedepaula@hotmail.com
+#Repositório para o projeto de UPX2- Cadastro de Hortas e Voluntarios
+## Como sera feito
+O projeto será desenvolvido utilizando a linguagem Java no ambiente NetBeans. Optamos por um banco de dados relacional devido à sua robustez, segurança e capacidade de fornecer os recursos necessários para o projeto.
 
 ### Objetivos Gerais:
 
