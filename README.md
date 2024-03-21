@@ -3,6 +3,7 @@
 ###Integrantes
 #Julia Rodrigues Pozza- 236657- jujubs.pozza@gmail.com
 #Guilherme Henrique Leite de Paula - 200595- gui.leitedepaula@hotmail.com
+> Vinicius Araújo de Moraes- 236922- vinicius.araujodemoraes@gmail.com
 
 
 #Repositório para o projeto de UPX2- Cadastro de Hortas e Voluntarios
