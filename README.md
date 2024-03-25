@@ -1,11 +1,11 @@
 ### UPX2-Camaleao
 
-###Integrantes
-##Julia Rodrigues Pozza- 236657- jujubs.pozza@gmail.com
-##Guilherme Henrique Leite de Paula - 200595- gui.leitedepaula@hotmail.com
-##Vinicius Araújo de Moraes- 236922- vinicius.araujodemoraes@gmail.com
-##GabrielaCristina Leme de Oliveira - 236821 - gabioliveira_leme@outlook.com
-##Rian Anteveli Biondi - 237015 - riananteveli@gmail.com
+Integrantes
+Julia Rodrigues Pozza- 236657- jujubs.pozza@gmail.com
+Guilherme Henrique Leite de Paula - 200595- gui.leitedepaula@hotmail.com
+Vinicius Araújo de Moraes- 236922- vinicius.araujodemoraes@gmail.com
+GabrielaCristina Leme de Oliveira - 236821 - gabioliveira_leme@outlook.com
+Rian Anteveli Biondi - 237015 - riananteveli@gmail.com
 
 
 ##Repositório para o projeto de UPX2- Cadastro de Hortas e Voluntarios
