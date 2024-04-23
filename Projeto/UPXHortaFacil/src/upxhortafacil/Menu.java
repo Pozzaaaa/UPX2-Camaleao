@@ -4,16 +4,49 @@
  */
 package upxhortafacil;
 
+import java.util.Scanner;
+
 /**
  *
  * @author jujub
  */
 public class Menu {
     public Menu()
-    { System.out.println();
-            System.out.println("Bem-Vindo(a) ao Horta Facil");
-            System.out.println("---------------------");
-            System.out.println("Este e um sistema para cadatro de hortas e voluntarios");
-            System.out.println("voce pode se tornar um  volintario ou cadastrar sua propria horta!");
+    { 
+            Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Cadastro de Horta");
+        System.out.println("-----------------");
+
+        System.out.print("Estado: ");
+        char estado = scanner.nextLine().charAt(0);
+
+        System.out.print("Cidade: ");
+        String cidade = scanner.nextLine();
+
+        System.out.print("Nome da Horta: ");
+        String nome = scanner.nextLine();
+
+        System.out.print("Proprietário da Horta: ");
+        String prop = scanner.nextLine();
+
+        System.out.print("Número de Membros: ");
+        int membros = scanner.nextInt();
+
+        System.out.print("Tamanho da Horta (em metros quadrados): ");
+        int tamanho = scanner.nextInt();
+
+        CadastroHorta horta = new CadastroHorta(estado, cidade, nome, prop, membros, tamanho);
+
+        System.out.println("\nInformacoes da Horta cadastrada:");
+        System.out.println("Estado: " + horta.getEstado());
+        System.out.println("Cidade: " + horta.getCidade());
+        System.out.println("Nome da Horta: " + horta.getNome());
+        System.out.println("Proprietario da Horta: " + horta.getProp());
+        System.out.println("Numero de Membros: " + horta.getMembros());
+        System.out.println("Tamanho da Horta: " + horta.getTamanho() + " metros quadrados");
+
+        
+            
     }
 }
