@@ -27,10 +27,10 @@ public class Menu {
         System.out.print("Nome da Horta: ");
         String nome = scanner.nextLine();
 
-        System.out.print("Proprietário da Horta: ");
+        System.out.print("Proprietario da Horta: ");
         String prop = scanner.nextLine();
 
-        System.out.print("Número de Membros: ");
+        System.out.print("Numero de Membros: ");
         int membros = scanner.nextInt();
 
         System.out.print("Tamanho da Horta (em metros quadrados): ");
